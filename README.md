@@ -31,7 +31,7 @@ The computer randomly selects a number between **1 and 100**, and you have **10 
 
 ## Live Demo
 
-> https://your-github-pages-link
+> https://guess-the-number-pp.vercel.app/
 
 ## Project Structure
 
