@@ -1,4 +1,7 @@
 # Guess The Number
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 A fun and interactive number guessing game built using **HTML, CSS, and JavaScript**.
 
@@ -21,13 +24,15 @@ The computer randomly selects a number between **1 and 100**, and you have **10 
 - Modern glassmorphism UI with animated background
 - Play Again functionality
 
-## Screenshots
+<h2 align="center">Screenshots</h2>
 
-### Game Start
-![game start screen](assets/game-start.png)
+<p align="center">
+  <img src="assets/game-start.png" alt="Game Start" width="650">
+</p>
 
-### Winning Screen
-![game winning screen](assets/winning-screen.png)
+<p align="center">
+  <img src="assets/winning-screen.png" alt="Winning Screen" width="650">
+</p>
 
 ## Live Demo
 
