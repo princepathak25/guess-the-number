@@ -41,7 +41,7 @@ The computer randomly selects a number between **1 and 100**, and you have **10 
 ## Project Structure
 
 ```
-guess-the-number-game/
+guess-the-number/
 │
 ├── assets/
 │   ├── game-start.png
