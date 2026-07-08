@@ -3,7 +3,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-A fun and interactive number guessing game built using **HTML, CSS, and JavaScript**.
+Presenting a fun and interactive number guessing game.
 
 The computer randomly selects a number between **1 and 100**, and you have **10 attempts** to guess it correctly. The game provides real-time feedback, tracks your best score using **Local Storage**, and features a modern responsive UI.
 
@@ -20,11 +20,10 @@ The computer randomly selects a number between **1 and 100**, and you have **10 
 - Previous guesses tracker
 - Attempts counter with progress bar
 - Best Score saved using Local Storage
-- Responsive design
 - Modern glassmorphism UI with animated background
 - Play Again functionality
 
-<h2 align="center">Screenshots</h2>
+<h2>Screenshots</h2>
 
 <p align="center">
   <img src="assets/game-start.png" alt="Game Start" width="650">
