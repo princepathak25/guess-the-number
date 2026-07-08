@@ -23,7 +23,7 @@ The computer randomly selects a number between **1 and 100**, and you have **10 
 - Modern glassmorphism UI with animated background
 - Play Again functionality
 
-<h2>Screenshots</h2>
+<h2 align="center">Snaps from the Game</h2>
 
 <p align="center">
   <img src="assets/game-start.png" alt="Game Start" width="650">
