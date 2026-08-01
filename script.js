@@ -14,7 +14,7 @@ const message = document.querySelector(".lowOrHigh");
 const progressBar = document.querySelector(".progress-bar");
 const bestScoreText = document.querySelector(".bestScore");
 
-// best score
+// setting best score and saving it in local storage
 let bestScore = localStorage.getItem("bestScore");
 if (bestScore === null) {
     localStorage.setItem("bestScore", 11);
