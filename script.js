@@ -87,7 +87,7 @@ function showMessage(text, type) {
     message.classList.add(type);
 }
 
-// update progress
+// function to update progress
 function updateProgress() {
     progressBar.style.width = `${attempts * 10}%`;
 }
