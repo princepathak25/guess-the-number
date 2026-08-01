@@ -80,7 +80,7 @@ function compareGuess(guess) {
     shakeInput();
 }
 
-// show message
+// function to show message
 function showMessage(text, type) {
     message.textContent = text;
     message.className = "lowOrHigh";
