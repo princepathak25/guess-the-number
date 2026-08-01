@@ -4,7 +4,7 @@ let attempts = 10;
 let previousGuesses = [];
 let gameOver = false;
 
-// elements
+// initializing variables for the game elements
 const guessField = document.querySelector("#guessField");
 const submitBtn = document.querySelector("#subt");
 const playAgainBtn = document.querySelector("#newGame");
