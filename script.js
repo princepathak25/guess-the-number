@@ -39,7 +39,7 @@ guessField.addEventListener("keydown", function (e) {
     }
 });
 
-// check input
+// function to check input
 function checkInput(guess) {
     if (isNaN(guess) || guess < 1 || guess > 100) {
         showMessage("Enter a number between 1 and 100", "high");
