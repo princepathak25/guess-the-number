@@ -92,7 +92,7 @@ function updateProgress() {
     progressBar.style.width = `${attempts * 10}%`;
 }
 
-// shake input
+// functionality to shake input for UI
 function shakeInput() {
     guessField.classList.add("shake");
 
