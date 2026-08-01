@@ -1,4 +1,4 @@
-// game values
+// initializing variables for the game values
 let randomNumber = Math.floor(Math.random() * 100) + 1;
 let attempts = 10;
 let previousGuesses = [];
