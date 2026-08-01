@@ -109,7 +109,7 @@ function finishGame() {
     playAgainBtn.hidden = false;
 }
 
-// restart game
+// function to restart game
 playAgainBtn.addEventListener("click", function () {
     randomNumber = Math.floor(Math.random() * 100) + 1;
     attempts = 10;
