@@ -23,7 +23,7 @@ if (bestScore === null) {
 
 bestScoreText.textContent = bestScore == 11 ? "-" : bestScore;
 
-// submit
+// functionality designed for submit
 submitBtn.addEventListener("click", function (e) {
     e.preventDefault();
     if (gameOver) return;
