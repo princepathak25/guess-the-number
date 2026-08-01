@@ -56,7 +56,7 @@ function checkInput(guess) {
     guessField.focus();
 }
 
-// compare guess
+// function to compare guess
 function compareGuess(guess) {
     if (guess === randomNumber) {
         showMessage("🎉 Correct! You Won!", "win");
