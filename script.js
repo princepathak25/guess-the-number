@@ -126,7 +126,7 @@ playAgainBtn.addEventListener("click", function () {
     guessField.focus();
 });
 
-// update best score
+// function to update best score
 function updateBestScore() {
     const currentBest = Number(localStorage.getItem("bestScore"));
     const score = previousGuesses.length;
