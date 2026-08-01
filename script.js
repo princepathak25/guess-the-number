@@ -101,7 +101,7 @@ function shakeInput() {
     }, 300);
 }
 
-// finish game
+// function to finish game
 function finishGame() {
     gameOver = true;
     guessField.disabled = true;
