@@ -31,7 +31,7 @@ submitBtn.addEventListener("click", function (e) {
     checkInput(guess);
 });
 
-// enter key
+// functionality to get input by pressing Enter
 guessField.addEventListener("keydown", function (e) {
     if (e.key === "Enter") {
         e.preventDefault();
